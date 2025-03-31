@@ -7,12 +7,6 @@ As I pursued my education, I honed my ability to work with complex datasets and 
 
 This is a repository to showcase my skills in the following topics: SQL, Power BI, Tableau, Excel / Google Sheets
 
-## Table of Contents
-- [About](#about)
-- [Education](#education)
-- [Certificates & Accomplishments](#certificates-accomplishments)
-- [Contact](#contact)
-
 ## Education & Certificates
 - Texas Tech University B.S. Leadership Studies - GPA 4.0 (July 2025)
 - Texas Tech University - Computer Science (120 Hours) - GPA: 3.73
