@@ -9,7 +9,8 @@ As I pursued my education, I honed my ability to work with complex datasets and 
 - [Business Intelligence Analyst Portfolio](https://github.com/keshavramesh2/Business_Intelligence_Analyst_Portfolio)
 
 ## Education & Certificates
-- Texas Tech University B.S. Leadership Studies - GPA 4.0 (July 2025)
+- Colorado University - M.S. Computer Science (April 2025 - April 2027)
+- Texas Tech University - B.S. Leadership Studies - GPA 4.0 (August 2020 - July 2025)
 - Texas Tech University - Computer Science (120 Hours) - GPA: 3.73
 - Certificate - Business Intelligence Analytics - TripleTen
 - Certificate - SQL - TripleTen
